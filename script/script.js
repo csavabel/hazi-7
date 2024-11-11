@@ -1,0 +1,15 @@
+console.log("Csavajda Abel");
+let city = "Magyarország";
+let country = "Budapest";
+console.log("Ország:", city);
+console.log("Város:", country);
+let x = 9;
+console.log("x értéke:", x);
+console.log("x+1 értéke:", x + 1);
+let y = 20;
+console.log("x + y összege:", x + y);
+console.log("x * y szorzata:", x * y);
+let z = 2641;
+console.log("z % 7 maradéka:", z % 7);
+let favoriteAnimal = prompt("Mi a kedvenc állatod?");
+console.log("A kedvenc állatod a " + favoriteAnimal + ".");
